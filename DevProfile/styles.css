@@ -248,6 +248,9 @@ NAV {
     height: 100%;
     width: 100%;
     background-color: #1c1d25;
-    
+    opacity: 0;
+}
 
+.project:hover .project__wrapper::before{
+    opacity: 
 }
